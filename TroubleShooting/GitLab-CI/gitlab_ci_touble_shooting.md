@@ -2,7 +2,7 @@
 
 ## GitLab - Specific Runner
 ### CI job 
-  ### CI setting error
+  #### CI setting error
   以下のようなErrorが発生した時
   ```
   This job is stuck because the project doesn't have any runners online assigned to it. Go to project CI settings.
